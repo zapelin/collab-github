@@ -5,3 +5,5 @@ new commit for feature1
 new commit for feature1 - 2
 
 new commit for feature1 - 3
+
+new commit for feature1 - 4
