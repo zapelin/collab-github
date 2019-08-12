@@ -6,4 +6,8 @@ master 2
 
 master 00
 
+<<<<<<< HEAD
+sdfsfbr 
+=======
 sdfsf
+>>>>>>> master
