@@ -4,3 +4,4 @@ commit 3; file 70
 commit 4; file 70
 commit 5; file 70
 commit 6; file 70
+commit 7; file 70

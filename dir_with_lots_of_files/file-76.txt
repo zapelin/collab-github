@@ -4,3 +4,4 @@ commit 3; file 76
 commit 4; file 76
 commit 5; file 76
 commit 6; file 76
+commit 7; file 76

@@ -4,3 +4,4 @@ commit 3; file 9
 commit 4; file 9
 commit 5; file 9
 commit 6; file 9
+commit 7; file 9

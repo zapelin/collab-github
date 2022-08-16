@@ -4,3 +4,4 @@ commit 3; file 13
 commit 4; file 13
 commit 5; file 13
 commit 6; file 13
+commit 7; file 13

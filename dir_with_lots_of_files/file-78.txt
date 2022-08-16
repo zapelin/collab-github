@@ -4,3 +4,4 @@ commit 3; file 78
 commit 4; file 78
 commit 5; file 78
 commit 6; file 78
+commit 7; file 78
