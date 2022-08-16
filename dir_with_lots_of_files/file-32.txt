@@ -5,3 +5,4 @@ commit 4; file 32
 commit 5; file 32
 commit 6; file 32
 commit 7; file 32
+commit 8; file 32
