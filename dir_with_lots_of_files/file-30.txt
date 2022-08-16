@@ -1,0 +1,2 @@
+30:     cannot open `30' (No such file or directory)
+change: cannot open `change' (No such file or directory)
