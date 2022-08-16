@@ -3,3 +3,4 @@ commit 2; file 88
 commit 3; file 88
 commit 4; file 88
 commit 5; file 88
+commit 6; file 88

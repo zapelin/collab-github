@@ -3,3 +3,4 @@ commit 2; file 35
 commit 3; file 35
 commit 4; file 35
 commit 5; file 35
+commit 6; file 35
