@@ -1,4 +1,0 @@
-commit 1; file 1
-commit 2; file 1
-commit 3; file 1
-commit 4; file 1
