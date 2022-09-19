@@ -1,2 +1,3 @@
 commit 1; file 652
 commit 2; file 652
+commit 3; file 652
