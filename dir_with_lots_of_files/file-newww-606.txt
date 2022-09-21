@@ -1,0 +1,2 @@
+commit 1; file 606-newww
+commit 2; file 606-newww

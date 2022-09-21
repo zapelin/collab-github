@@ -1,0 +1,2 @@
+commit 1; file 600-newww
+commit 2; file 600-newww
