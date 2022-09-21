@@ -1,3 +1,4 @@
 commit 1; file 525-neww
 commit 2; file 525-neww
 commit 3; file 525-neww
+commit 4; file 525-neww

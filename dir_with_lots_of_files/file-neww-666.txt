@@ -1,3 +1,4 @@
 commit 1; file 666-neww
 commit 2; file 666-neww
 commit 3; file 666-neww
+commit 4; file 666-neww
