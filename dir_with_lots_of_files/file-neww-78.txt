@@ -1,1 +1,2 @@
 commit 1; file 78-neww
+commit 2; file 78-neww

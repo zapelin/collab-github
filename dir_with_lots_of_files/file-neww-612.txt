@@ -1,1 +1,2 @@
 commit 1; file 612-neww
+commit 2; file 612-neww
